@@ -1,0 +1,11 @@
+# tidy output and test folders: never commit personal files
+Sorted/
+.tidy-log.json
+scratch/
+realtest/
+*-backup/
+Certificates*/
+
+# python
+__pycache__/
+*.pyc
